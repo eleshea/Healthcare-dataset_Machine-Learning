@@ -14,11 +14,11 @@
 
 
 ## Metadata
-1	Name - Name of Patient
-2	Age - Age of patient at time of admission
-3	Gender
-4	Blood Type 
-5	Medical Condition - Primary Medical condition/ Diagnosis of Patient
+1.Name - Name of Patient
+2.Age - Age of patient at time of admission
+3.Gender
+4.Blood Type 
+5.Medical Condition - Primary Medical condition/ Diagnosis of Patient
 6	Date of Admission 
 7	Doctor - The name of the doctor for the Patient's care during admission
 8	Hospital
