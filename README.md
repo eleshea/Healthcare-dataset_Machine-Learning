@@ -14,8 +14,8 @@
 
 
 ## Metadata
-1.Name - Name of Patient
-2.Age - Age of patient at time of admission
+1. Name - Name of Patient
+2. Age - Age of patient at time of admission
 3.Gender
 4.Blood Type 
 5.Medical Condition - Primary Medical condition/ Diagnosis of Patient
