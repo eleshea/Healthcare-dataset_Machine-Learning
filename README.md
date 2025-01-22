@@ -5,8 +5,11 @@
 
 
 
-## 
- 
+## Process
+1. Import Packages and Data File
+2. Data Preprocessing
+3. Data Exploration
+4. Machine Learning
 
 
 ## Data Source
