@@ -1,11 +1,6 @@
 # Healthcare dataset_Machine learning
 
-
-## Objective
-
-
-
-## Process
+## Summary
 1. Import Packages and Data File
 2. Data Preprocessing
 3. Data Exploration
